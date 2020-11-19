@@ -16,6 +16,7 @@ I'm a creative 17 years old developer and marketing manager striving to grow mys
 - 📗 Greenboy: The biggest Polish discord bot
 - ⭐ StreamCraft: Minecraft plugin allowing streamers to integrate with chat \[YouTube/Twitch\]
 - 🌱 MidMc - Project of Minecraft MiniGames server
+- ☄️ Sky Jump - My first mobile game
 
 <br />
 
