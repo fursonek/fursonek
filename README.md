@@ -3,6 +3,8 @@
 [<img align="left" alt="FursonDEV | Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg">](https://www.fiverr.com/fursondev)
 [<img align="left" alt="FursonDEV | Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/fursonik/)
 
+<br />
+
 I'm a creative 17 years old developer and marketing manager striving to grow myself and everyone around me. 
 
 
