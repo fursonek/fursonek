@@ -1,11 +1,13 @@
 ### Hello! I'm **Szymon** - aka **[FursonDEV](http://fursondev.net)**
 
-[<img align="left" alt="FursonDEV | Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg">](https://www.fiverr.com/fursondev)
-[<img align="left" alt="FursonDEV | Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/fursonik/)
-
 <br />
 
-I'm a creative 17 years old developer and marketing manager striving to grow myself and everyone around me. 
+I'm a creative 17 years old developer and marketing manager striving to grow myself and everyone around me.
+
+### Let's stay in touch:
+[<img align="left" alt="FursonDEV | Fiverr" width="22px" fill="#1DBF73" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg">](https://www.fiverr.com/fursondev)
+[<img align="left" alt="FursonDEV | Fiverr" width="22px" fill="#E4405F" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/fursonik/)
+[<img align="left" alt="FursonDEV | Fiverr" width="22px" fill="#7289DA" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">](https://discord.gg/8YbQZ7D)
 
 
 ## I'm currently working on:
