@@ -9,6 +9,7 @@ I'm a creative 17 years old developer and marketing manager striving to grow mys
 [<img align="left" alt="FursonDEV | Fiverr" width="22px" fill="#E4405F" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/fursonik/)
 [<img align="left" alt="FursonDEV | Fiverr" width="22px" fill="#7289DA" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">](https://discord.gg/8YbQZ7D)
 
+<br />
 
 ## I'm currently working on:
 
