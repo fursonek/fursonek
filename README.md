@@ -15,6 +15,7 @@ I'm a creative 17 years old developer and marketing manager striving to grow mys
 - ⭐ StreamCraft: Minecraft plugin allowing streamers to integrate with chat \[YouTube/Twitch\]
 - 🌱 MidMc: Project of Minecraft MiniGames server
 - ☄️ Sky Jump: My first mobile game
+- ✂️ CropIt.me: URL Shortener to reduce a long links
 
 <br />
 
