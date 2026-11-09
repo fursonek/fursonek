@@ -1,37 +1,42 @@
-### Hello! I'm **Szymon** - aka **[FursonDEV](http://fursondev.net)**
+<h1 align="center">Hi there, I'm Szymon Budzyński 👋</h1>
+<h3 align="center">Tech Entrepreneur, Game Developer & Content Creator from Poland</h3>
 
-I'm a creative 17 years old developer and marketing manager striving to grow myself and everyone around me.
+<br>
 
-### Let's stay in touch:
-[<img align="left" alt="FursonDEV | Fiverr" width="22px" fill="#1DBF73" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg">](https://www.fiverr.com/fursondev)
-[<img align="left" alt="FursonDEV | Fiverr" width="22px" fill="#E4405F" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/fursonik/)
-[<img align="left" alt="FursonDEV | Fiverr" width="22px" fill="#7289DA" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg">](https://discord.gg/8YbQZ7D)
+<p align="center">
+  <a href="https://x.com/AIDailyLeaks"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+  <a href="https://pikomc.pl"><img src="https://img.shields.io/badge/PikoMC-0052CC?style=for-the-badge&logo=minecraft&logoColor=white" alt="PikoMC"></a>
+  <a href="https://www.youtube.com/@PikoMC"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
+  <a href="https://github.com/fursonek"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-<br />
+---
 
-## I'm currently working on:
+### 🚀 About Me
+- 💼 Co-founder and operator of **PIKOMC sp. z o.o.** – a digital media and gaming company in Poland.
+- 🎮 Building and scaling large-scale Minecraft servers (**PikoMC.pl**), web apps (**ZgadnijHit.pl**), and developing major games in Roblox.
+- 📺 Managing a network of gaming YouTube channels with over **1,000,000 combined subscribers** (`@PikoMC`, `@Fezuu`, `@uNNseMC`, `@TrekitMC`, `@Furson`, `@PikoPlus`).
+- 🤖 Running **[@AIDailyLeaks](https://x.com/AIDailyLeaks)** on X – tracking cutting-edge AI leaks, autonomous coding agents, and open-weight models.
 
-- 📗 Greenboy: The biggest Polish discord bot
-- ⭐ StreamCraft: Minecraft plugin allowing streamers to integrate with chat \[YouTube/Twitch\]
-- 🌱 MidMc: Project of Minecraft MiniGames server
-- ☄️ Sky Jump: My first mobile game
-- ✂️ CropIt.me: URL Shortener to reduce a long links
+---
 
-<br />
+### 🛠️ What I'm Working On
+- **[PikoMC.pl](https://pikomc.pl)**: Expanding our core Minecraft ecosystem.
+- **[MinecraftSerweryLista.pl](https://minecraftserwerylista.pl)** & **[ZgadnijHit.pl](https://zgadnijhit.pl)**: Developing independent web platforms.
+- **Roblox Games**: Building and scaling large-scale projects on the Roblox platform.
+- **AI Workflows**: Integrating advanced LLMs and coding agents into development pipelines.
 
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
-<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+---
+
+### 🌐 Ecosystem & Links
+- 🌍 **Main Portal:** [pikomc.pl](https://pikomc.pl)
+- 📋 **Minecraft Server List:** [minecraftserwerylista.pl](https://minecraftserwerylista.pl)
+- 🎵 **Quiz/Platform:** [zgadnijhit.pl](https://zgadnijhit.pl)
+- 🐦 **AI News & Leaks (X):** [@AIDailyLeaks](https://x.com/AIDailyLeaks)
+- 📺 **YouTube Network (1M+ Subs):** 
+  [PikoMC](https://www.youtube.com/@PikoMC) | 
+  [Fezuu](https://www.youtube.com/@Fezuu) | 
+  [uNNseMC](https://www.youtube.com/@uNNseMC) | 
+  [TrekitMC](https://www.youtube.com/@TrekitMC) | 
+  [Furson](https://www.youtube.com/@Furson) | 
+  [PikoPlus](https://www.youtube.com/@PikoPlus)
